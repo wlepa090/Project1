@@ -1,0 +1,2 @@
+#pupipa
+print("hello world")
